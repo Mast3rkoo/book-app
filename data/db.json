@@ -1,0 +1,380 @@
+{
+  "topBooks": [
+    {
+      "id": 52861201,
+      "title": "From Blood and Ash",
+      "author": "Jennifer L. Armentrout",
+      "votes": 70896,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588843906l/52861201._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/52861201-from-blood-and-ash?from_choice=true"
+    },
+    {
+      "id": 52867387,
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "votes": 60124,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589881197l/52867387._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/52867387-beach-read?from_choice=true"
+    },
+    {
+      "id": 50093704,
+      "title": "In Five Years",
+      "author": "Rebecca Serle",
+      "votes": 37342,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586399012l/50093704._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/50093704-in-five-years?from_choice=true"
+    },
+    {
+      "id": 12345678,
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "votes": 200000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg",
+      "url": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing"
+    },
+    {
+      "id": 87654321,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "votes": 150000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602190253i/52578297.jpg",
+      "url": "https://www.goodreads.com/book/show/52578297-the-midnight-library"
+    },
+    {
+      "id": 98765432,
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "votes": 80000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609095173i/50202953.jpg",
+      "url": "https://www.goodreads.com/book/show/49700552-piranesi"
+    },
+    {
+      "id": 24681357,
+      "title": "Mexican Gothic",
+      "author": "Silvia Moreno-Garcia",
+      "votes": 75000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632600638i/59075223.jpg",
+      "url": "https://www.goodreads.com/book/show/52578297-the-midnight-library"
+    },
+    {
+      "id": 13579246,
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "votes": 100000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601758439i/55205922.jpg",
+      "url": "https://www.goodreads.com/book/show/51791252-the-vanishing-half"
+    },
+    {
+      "id": 78965423,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "votes": 1200000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+      "url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+    },
+    {
+      "id": 12345677,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "votes": 1800000,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474154022i/3.jpg",
+      "url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+    }
+  ],
+  "horror": [
+    {
+      "id": 62080187,
+      "title": "Never Lie",
+      "author": "Freida McFadden",
+      "votes": 12000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661428846l/62080187._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/62080187-never-lie"
+    },
+    {
+      "id": 45299992,
+      "title": "If You Tell: a True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+      "author": "Gregg Olsen",
+      "votes": 21000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556171767l/45299992._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/45299992-if-you-tell"
+    },
+    {
+      "id": 57795665,
+      "title": "The Locked Door",
+      "author": "Freida McFadden",
+      "votes": 16000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618859577l/57795665._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/57795665-the-locked-door"
+    },
+    {
+      "id": 61313902,
+      "title": "Five Survive",
+      "author": "Holly Jackson",
+      "votes": 19000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664370443l/61313902._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/61313902-five-survive"
+    },
+    {
+      "id": 60177373,
+      "title": "Fairy Tale",
+      "author": "Stephen King",
+      "votes": 25000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647789287l/60177373.jpg",
+      "url": "https://www.goodreads.com/book/show/60177373-fairy-tale"
+    },
+    {
+      "id": 58724923,
+      "title": "Hidden Pictures",
+      "author": "Jason Rekulak",
+      "votes": 18000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635260162l/58724923.jpg",
+      "url": "https://www.goodreads.com/book/show/58724923-hidden-pictures"
+    },
+    {
+      "id": 58909880,
+      "title": "The House Across the Lake",
+      "author": "Riley Sager",
+      "votes": 22000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639618949l/58909880.jpg",
+      "url": "https://www.goodreads.com/book/show/58909880-the-house-across-the-lake"
+    },
+    {
+      "id": 52476830,
+      "title": "The Push",
+      "author": "Ashley Audrain",
+      "votes": 28000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609854219l/52476830._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/52476830-the-push"
+    },
+    {
+      "id": 59808050,
+      "title": "Daisy Darker",
+      "author": "Alice Feeney",
+      "votes": 14000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639604124l/59808050.jpg",
+      "url": "https://www.goodreads.com/book/show/59808050-daisy-darker"
+    },
+    {
+      "id": 54197718,
+      "title": "One By One",
+      "author": "Freida McFadden",
+      "votes": 26000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592705582l/54197718._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/54197718-one-by-one"
+    }
+  ],
+  "fantasy": [
+    {
+      "id": 62196151,
+      "title": "The Forbidden Wolf King",
+      "author": "Leia Stone",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661884025l/62196151._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/62196151-the-forbidden-wolf-king"
+    },
+    {
+      "id": 52578297,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602190253l/52578297.jpg",
+      "url": "https://www.goodreads.com/book/show/52578297-the-midnight-library"
+    },
+    {
+      "id": 26032912,
+      "title": "The Queen of Nothing",
+      "author": "Holly Black",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553624975l/26032912._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/26032912-the-queen-of-nothing"
+    },
+    {
+      "id": 26032887,
+      "title": "The Wicked King",
+      "author": "Holly Black",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520620414l/26032887._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/26032887-the-wicked-king"
+    },
+    {
+      "id": 51901147,
+      "title": "The Ballad of Songbirds and Snakes",
+      "author": "Suzanne Collins",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593892032l/51901147._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/51901147-the-ballad-of-songbirds-and-snakes"
+    },
+    {
+      "id": 62926938,
+      "title": "The Seven Year Slip",
+      "author": "Ashley Poston",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350807l/62926938.jpg",
+      "url": "https://www.goodreads.com/book/show/62926938-the-seven-year-slip"
+    },
+    {
+      "id": 62060274,
+      "title": "The Echo of Old Books",
+      "author": "Barbara Davis",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671274907l/62060274.jpg",
+      "url": "https://www.goodreads.com/book/show/62060274-the-echo-of-old-books"
+    },
+    {
+      "id": 76715522,
+      "title": "Kingdom of Ash",
+      "author": "Sarah J. Maas",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673567331l/76715522._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/76715522-kingdom-of-ash"
+    },
+    {
+      "id": 175961187,
+      "title": "Cursed",
+      "author": "Lindsay Buroker",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688087024l/175961187._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/175961187-cursed"
+    },
+    {
+      "id": 62337113,
+      "title": "The Bookstore Sisters",
+      "author": "Alice Hoffman",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663792373l/62337113._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/62337113-the-bookstore-sisters"
+    }
+  ],
+  "self-help": [
+    {
+      "id": 40121378,
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg",
+      "url": "https://www.goodreads.com/book/show/40121378-atomic-habits"
+    },
+    {
+      "id": 171173871,
+      "title": "It Will All Work Out: The Freedom of Letting Go",
+      "author": "Kevin Hart",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687894666l/171173871._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/171173871-it-will-all-work-out"
+    },
+    {
+      "id": 49228706,
+      "title": "I Want to Die But I Want to Eat Tteokpokki",
+      "author": "Baek Se Hee",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566872427l/49228706._SX318_SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/49228706-i-want-to-die-but-i-want-to-eat-tteokpokki"
+    },
+    {
+      "id": 43708884,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "author": "Charlie Mackesy",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579017235l/43708884._SX318_.jpg",
+      "url": "https://www.goodreads.com/book/show/43708884-the-boy-the-mole-the-fox-and-the-horse"
+    },
+    {
+      "id": 41881472,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/41881472-the-psychology-of-money"
+    },
+    {
+      "id": 61153739,
+      "title": "Outlive: The Science and Art of Longevity",
+      "author": "Bill Gifford, Peter Attia",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670258822l/61153739.jpg",
+      "url": "https://www.goodreads.com/book/show/61153739-outlive"
+    },
+    {
+      "id": 61355265,
+      "title": "The Light We Carry: Overcoming in Uncertain Times",
+      "author": "Michelle Obama",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658477208l/61355265.jpg",
+      "url": "https://www.goodreads.com/book/show/61355265-the-light-we-carry"
+    },
+    {
+      "id": 41721428,
+      "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+      "author": "David Goggins",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/41721428-can-t-hurt-me"
+    },
+    {
+      "id": 37570546,
+      "title": "Maybe You Should Talk to Someone",
+      "author": "Lori Gottlieb",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547189796l/37570546.jpg",
+      "url": "https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone"
+    },
+    {
+      "id": 52129515,
+      "title": "Untamed",
+      "author": "Glennon Doyle",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585832694l/52129515.jpg",
+      "url": "https://www.goodreads.com/book/show/52129515-untamed"
+    }
+  ],
+  "userBooks": [
+    {
+      "id": 40121378,
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg",
+      "url": "https://www.goodreads.com/book/show/40121378-atomic-habits"
+    },
+    {
+      "id": 41881472,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/41881472-the-psychology-of-money"
+    },
+    {
+      "id": 52861201,
+      "title": "From Blood and Ash",
+      "author": "Jennifer L. Armentrout",
+      "votes": 70896,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588843906l/52861201._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/52861201-from-blood-and-ash?from_choice=true"
+    },
+    {
+      "id": 62080187,
+      "title": "Never Lie",
+      "author": "Freida McFadden",
+      "votes": 12000,
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661428846l/62080187._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/62080187-never-lie"
+    },
+    {
+      "id": 171173871,
+      "title": "It Will All Work Out: The Freedom of Letting Go",
+      "author": "Kevin Hart",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687894666l/171173871._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/171173871-it-will-all-work-out"
+    },
+    {
+      "id": 26032912,
+      "title": "The Queen of Nothing",
+      "author": "Holly Black",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553624975l/26032912._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/26032912-the-queen-of-nothing"
+    },
+    {
+      "id": 51901147,
+      "title": "The Ballad of Songbirds and Snakes",
+      "author": "Suzanne Collins",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593892032l/51901147._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/51901147-the-ballad-of-songbirds-and-snakes"
+    },
+    {
+      "id": 26032887,
+      "title": "The Wicked King",
+      "author": "Holly Black",
+      "coverImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520620414l/26032887._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/26032887-the-wicked-king"
+    }
+  ],
+  "ownBooks": [
+    {
+      "title": "Escaping the build trap",
+      "author": "Melissa Perri",
+      "genre": "Fantasy",
+      "description": "How Effective Product management creates real value",
+      "coverImage": "https://i.ibb.co/0FGtg5W/b651963f0b0c.png",
+      "id": 1
+    }
+  ]
+}
