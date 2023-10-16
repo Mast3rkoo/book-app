@@ -13,7 +13,7 @@ const GetBookInfo = () => {
   const [chatgptResponse, setChatgptResponse] = useState("");
 
   const openai = new OpenAI({
-    apiKey: "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",
+    apiKey: "apikey",
     dangerouslyAllowBrowser: true,
   });
 
