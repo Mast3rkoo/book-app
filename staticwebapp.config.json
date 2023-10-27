@@ -1,1 +1,8 @@
-idk
+{
+  "mimeTypes": {
+    ".js": "application/javascript",
+    ".mjs": "application/javascript",
+    ".ts": "application/javascript",  // Specify TypeScript files with JavaScript MIME type
+    ".tsx": "application/javascript"  // Specify TypeScript files with JavaScript MIME type
+  }
+}
